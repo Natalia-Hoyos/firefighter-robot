@@ -17,7 +17,6 @@ Sort beacon targets based on estimated size.
 
 Navigate to each beacon location using odometry data.
 
-Simulate a fire extinguishing action (e.g., LED blink or buzzer).
 
 ⚙️ Technologies Used
 
